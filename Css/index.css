@@ -1,0 +1,18 @@
+@keyframes divcolor{
+    0%{background-color: chartreuse;}
+    100%{background-color: black;}
+}
+
+.div {
+    width:100px;
+    height: 100px;
+    background-color:red;
+    animation-name:divcolor;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+}
+
+
+
+    
+

@@ -1,0 +1,24 @@
+.header{text-align: center;
+        color: white;
+        background-color: black;
+        }
+
+.Profile{border-radius: 60%;}        
+
+.content{
+        width: 60%;
+         }
+
+.sidebar{width:20%;
+        background-color: black;
+        color: white;
+        text-align: center;
+        
+}
+
+
+
+.footer{color: white;
+        background-color: black;
+        width: 100%;
+        text-align: center;}
